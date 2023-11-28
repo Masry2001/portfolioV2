@@ -61,6 +61,7 @@ html {
 body {
     background-color: var(--bg-color);
     color: var(--text-color);
+    overflow-x: hidden;
 }
 
 
@@ -861,7 +862,7 @@ span {
     #menu-icon {
         display: block;
     }
-
+     
     #darkMode-icon {
         position: absolute;
         right: 7rem;
